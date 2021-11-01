@@ -14,7 +14,7 @@ const users = [];
 const siteConfig = {
     title: 'Andrew Hughes', // Title for your website.
     tagline: 'Smart, ambitious, and fun web developer',
-    profilePhoto: 'img/profile.png',
+    profilePhoto: 'img/computer.gif',
     url: 'https://arhughes11.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
